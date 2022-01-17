@@ -14,3 +14,7 @@ const askPicnic=()=>{
  }
 }
 console.log("Ok");
+const askName=()=>{
+   const userName= prompt("What Is your name");
+   console.log(userName);
+}
